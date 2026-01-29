@@ -42,6 +42,14 @@ This is a small static website demonstrating accessible and responsive design pr
 - **Axe DevTools:** Used for deep-dive auditing of ARIA attributes.
 - **Manual Testing:** Full site walkthrough performed using only the `Tab`, `Shift+Tab`, and `Enter` keys.
 
+## Deployment ⚙️
+
+This site is deployed automatically to **GitHub Pages** from the `main` branch using GitHub Actions. See `.github/workflows/deploy.yml` for the deployment workflow. Once the workflow runs successfully, the site will be published at: https://boshema.github.io/Professional-Portfolio/
+
+## License
+
+This project is licensed under the **MIT License** — see the `LICENSE` file for full details.
+
 ## Development & Contribution 🙌
 
 - To modify: edit the `.html` files and `style.css` in the project root.
